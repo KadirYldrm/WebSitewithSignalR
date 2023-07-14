@@ -1,0 +1,39 @@
+﻿@page
+@model c1811066_project.Pages.friends.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p>Friends</p>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Friend) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Friendid)
+            </td>
+
+            <td>        <input asp-for="aprrove" type="submit" id="id1" name="aprrove" value="aprrove" class="btn btn-primary" onclick="myfunction()"
+                               onchange="DoPostBack();" /></td>
+            <td>        <input style="background-color:red" asp-for="decline" type="submit" id="id2" name="decline" value="decline" class="btn btn-primary"
+                               onchange="DoPostBack();" /></td>
+            <td><a asp-page="./Delete" asp-route-id="@item.Id">Delete</a></td>
+        </tr>
+}
+<script>
+    function myfunction(){
+        var id = document.getElementById("id1");
+        id.nodeValue = true;
+    }
+</script>
+    </tbody>
+</table>

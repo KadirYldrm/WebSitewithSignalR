@@ -1,0 +1,45 @@
+﻿@page
+@model c1811066_project.Pages.post.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+@if (Model.UserPost != null)
+{
+    @foreach (var item in Model.UserPost)
+    {
+        @if (item.Picture != null)
+        {
+            <div class="card" style="width: 410px;border:5px solid black">
+                <img src="data:image;base64,@System.Convert.ToBase64String(item.Picture)" width="400" height="400" />
+                <div class="card-body">
+                    @Html.DisplayFor(modelItem => item.Message)
+                </div>
+             </div>
+             <div>
+
+                 <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                 <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                 <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+
+             </div>
+                            
+         }
+         else
+         {
+             <div></div>
+         }
+
+
+
+
+        
+    }
+}

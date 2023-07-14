@@ -1,0 +1,148 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = c1811066_project
+build_property.RootNamespace = c1811066_project
+build_property.ProjectDir = C:\Users\kadir\Desktop\c1811066_project\c1811066_project\c1811066_project\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kadir\Desktop\c1811066_project\c1811066_project\c1811066_project
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/Account/Manage/Picture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGljdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/AddRating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUmF0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/chat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2hhdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/friends/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZnJpZW5kc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/friends/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZnJpZW5kc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/friends/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZnJpZW5kc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/friends/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZnJpZW5kc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/friends/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZnJpZW5kc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/post/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccG9zdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/post/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccG9zdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/post/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccG9zdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/post/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccG9zdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/post/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccG9zdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/RateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF0ZVVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/Desktop/c1811066_project/c1811066_project/c1811066_project/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8jmya3j4ne
